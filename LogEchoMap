@@ -1,0 +1,23 @@
+
+---
+
+### **3. 32_LogEchoMap**  
+**Описание:**  
+Находит повторяющиеся цепочки логов, группирует их по частоте и отображает зоны "эхо"-эффектов.
+
+#### `README.md`
+```markdown
+# LogEchoMap - Repetitive Pattern Log Analyzer
+
+LogEchoMap visualizes recurring log sequences and echo-like error surges over time.
+
+## Features
+- Echo zone detector  
+- Timeline-based heatmaps  
+- CLI keyword filters
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_LogEchoMap.git
+cd 32_LogEchoMap
+python analyze.py
