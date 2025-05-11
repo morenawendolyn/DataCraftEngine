@@ -1,0 +1,23 @@
+
+---
+
+### **4. 32_StreamPulseView**  
+**Описание:**  
+Плавный, живой график для визуализации потоков числовых данных в реальном времени.
+
+#### `README.md`
+```markdown
+# StreamPulseView - Realtime Data Flow Visualizer
+
+StreamPulseView displays incoming metric streams in a smooth, continuously updating chart view.
+
+## Features
+- Real-time scrolling  
+- Refresh control  
+- Built on Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/32_StreamPulseView.git
+cd 32_StreamPulseView
+python visualize.py
