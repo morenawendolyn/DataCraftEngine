@@ -1,0 +1,22 @@
+
+---
+
+**APIFlowLens**  
+**Description:**  
+Monitors API behavior through a zoomed-in lens that highlights jitter, anomalies, and micro-bursts in performance.
+
+```markdown
+# APIFlowLens - High-Resolution API Analyzer
+
+APIFlowLens focuses on fine-grained analysis of API responses, revealing subtle timing issues and response deviations.
+
+## Features
+- Micro-latency detection  
+- Anomaly burst tracking  
+- Export: JSON / CSV
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIFlowLens.git
+cd APIFlowLens
+python monitor.py
